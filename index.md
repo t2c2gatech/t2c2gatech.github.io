@@ -18,6 +18,7 @@ excerpt: "  **We aim to provide experiential learning opportunities for graduate
 
 intro: 
   - excerpt: "Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals."
+  - 
 feature_row:
   - image_path: /assets/images/placeholder_1.jpg
     alt: "placeholder image 1"
