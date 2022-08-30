@@ -17,7 +17,7 @@ header:
 excerpt: "  **We aim to provide experiential learning opportunities for graduate students interested in various technology-business careers. Since our foundation in 2020, we have provided business and strategy consulting services to early-stage startups on and off campuses** "
 
 intro: 
-  - excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.'
+  - excerpt: "Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals."
 feature_row:
   - image_path: /assets/images/placeholder_1.jpg
     alt: "placeholder image 1"
@@ -38,7 +38,7 @@ feature_row2:
   - image_path: /assets/images/gear.png
     alt: "placeholder image 2"
     title: "This new homepage is under construction ... "
-    excerpt: ' **From Fall 2022** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!
+    excerpt: " **From Fall 2022** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!"
     
     url: "https://jeonghwanson.wixsite.com/gt2c2"
     btn_label: "Please visit past homepage for more information"
